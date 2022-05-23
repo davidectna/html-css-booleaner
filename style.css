@@ -2,5 +2,13 @@
     height: 40px;
 }
 header{
-    background-color:dodgerblue;
+    background-color:rgb(20, 121, 222);
+}
+h1{
+    font-size: 45px;
+}
+h2{
+    font-size: 19px;
+    font-family: 'Times New Roman', Times, serif;
+    color: dimgray;
 }
