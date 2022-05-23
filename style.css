@@ -19,6 +19,16 @@ h3{
 .scritta-azzurra{
     color: rgb(19, 155, 227);
 }
-.evidenziatore{
+.evidenzia-gialla{
     background-color: rgb(206, 191, 22);
+}
+thead{
+    color: aliceblue;
+    background-color: rgb(20, 121, 222);
+}
+tbody{
+    background-color: rgb(2, 133, 189);
+}
+.sfondo-bianco{
+    background-color: azure;
 }
