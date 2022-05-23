@@ -12,3 +12,13 @@ h2{
     font-family: 'Times New Roman', Times, serif;
     color: dimgray;
 }
+h3{
+    font-size: 13px;
+    font-family:'Times New Roman', Times, serif
+}
+.scritta-azzurra{
+    color: rgb(19, 155, 227);
+}
+.evidenziatore{
+    background-color: rgb(206, 191, 22);
+}
